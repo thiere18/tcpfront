@@ -48,7 +48,7 @@ function contact() {
   </div>
   <div className="md:flex md:items-center">
     <div className="md:w-1/3">
-      <button className="shadow   focus:shadow-outline focus:outline-none text-dark font-bold py-2 px-4 rounded" type="button">
+      <button className="shadow   focus:shadow-outline focus:outline-none text-dark font-bold py-2 px-4 rounded" type="submit">
         Envoyer
       </button>
     </div>
