@@ -11,7 +11,7 @@ const Footer = () => {
     <footer className="flex justify-between pb-4">
       // eslint-disable-next-line prettier/prettier
       <p className="text-sm font-semibold text-gray-600">
-      projet TCPL Groupe 17
+      projet TCPL Groupe 17 
       </p>
       <div className="flex gap-3 ml-4">
         <a href="https://twitter.com/strapijs" className="max-w-xs ml-4">
@@ -21,7 +21,7 @@ const Footer = () => {
           <img src={facebook} alt="Facebook" />
         </a>
         <a
-          href="https://github.com/strapi/strapi-starter-gatsby-catalog"
+          href="github.com/thiere18"
           className="ml-3"
         >
           <img src={github} alt="GitHub" />
